@@ -13,7 +13,7 @@ weight = 1
 [Languages.es]
 contentDir = "content/french"
 copyright = ""
-languageCode = "fr-ar"
+languageCode = "es-ar"
 languageName = "Español"
 weight = 2
 [[menu.footer]]
