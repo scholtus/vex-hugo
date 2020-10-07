@@ -1,0 +1,72 @@
+DefaultContentLanguage: es
+baseurl: https://tienda.scholtus.com.ar
+disableLanguages: []
+googleAnalytics:
+summarylength: 20
+theme: vex-hugo
+title: Comprá dale comprá
+languages:
+  ar:
+    contentDir: content/spanish
+    copyright:
+    languageCode: es-ar
+    languageName: Español
+    weight: 1
+menu:
+  footer:
+    URL: blog
+    name: Blog
+    weight: 1
+    footer:
+    - URL: contact
+      name: Contact
+      weight: 2
+    - URL: terms-conditions
+      name: Terms & Conditions
+      weight: 3
+    - URL: privacy-policy
+      name: Privacy Policy
+      weight: 4
+    main:
+    - URL: /
+      name: Home
+      weight: 1
+    - URL: products
+      name: Products
+      weight: 2
+    - URL: blog
+      name: Blog
+      weight: 3
+    - URL: testimonial
+      name: Review
+      pre: #
+    weight: 4
+    - URL: contact
+      name: Contact
+      weight: 5
+params:
+  author: Dani Scholtus
+  contact_form_action: '#'
+  currency: $
+  description: Tienda de Lau y Dani
+  logo: image/logo.png"
+  logo_width: 100p"
+  snipcart_api:
+  plugins:
+    css:
+    - link: https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700
+    - link: plugins/bootstrap/bootstrap.min.css
+    - link: plugins/themefisher-font/themefisher-font.min.css
+    - link: plugins/slick/slick.min.css
+    - link: https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.css
+    js:
+    - link: plugins/jquery/jquery.js
+    - link: plugins/bootstrap/bootstrap.min.js
+    - link: plugins/slick/slick.min.js
+    - link: https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js
+  preloader:
+    enable: true
+    preloader:
+  subscription:
+    mailchimp_form_action: https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074
+    mailchimp_form_name: b_463ee871f45d2d93748e77cad_a0a2c6d074
