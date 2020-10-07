@@ -8,13 +8,13 @@ title = "Comprá dale comprá"
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "en-us"
-languageName = "En"
+languageName = "Inglés"
 weight = 1
-[Languages.fr]
+[Languages.es]
 contentDir = "content/french"
 copyright = ""
-languageCode = "fr-fr"
-languageName = "Fr"
+languageCode = "fr-ar"
+languageName = "Español"
 weight = 2
 [[menu.footer]]
 URL = "blog"
