@@ -1,6 +1,6 @@
 ---
 - id: add_to_cart
-  translation: Add to Cart
+  translation: Agregar al carrito
 - id: send
   translation: Send Now
 - id: subscribe
