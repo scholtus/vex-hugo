@@ -54,13 +54,13 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-author = "Themefisher"
+author = "Dani Scholtus"
 contact_form_action = "#"
 currency = "$"
-description = "This is meta description"
+description = "Tienda de Lau y Dani"
 logo = "images/logo.png"
 logo_width = "100px"
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcart_api = ""
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
 [[params.plugins.css]]
