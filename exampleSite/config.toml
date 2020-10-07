@@ -1,3 +1,4 @@
+DefaultContentLanguage = "es"
 baseurl = "https://tienda.scholtus.com.ar"
 disableLanguages = []
 googleAnalytics = ""
