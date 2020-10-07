@@ -26,5 +26,3 @@ fields:
 - type: list
   name: sizes
   label: sizes
-pages:
-- exampleSite/i18n/test-product.md
