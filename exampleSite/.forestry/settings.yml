@@ -10,8 +10,8 @@ sections:
   path: exampleSite/data/en/homepage.yml
   label: Homepage (en)
 - type: document
-  path: exampleSite/data/fr/homepage.yml
-  label: Homepage (fr)
+  path: exampleSite/data/es/homepage.yml
+  label: Homepage (es)
 - type: heading
   label: Blog Post
 - type: directory
@@ -23,8 +23,8 @@ sections:
   templates:
   - post
 - type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
+  path: exampleSite/content/spanish/blog
+  label: Post (es)
   create: documents
   match: "**/*"
   templates:
@@ -39,8 +39,8 @@ sections:
   templates:
   - product
 - type: directory
-  path: exampleSite/content/french/products
-  label: Products (fr)
+  path: exampleSite/content/spanish/products
+  label: Products (es)
   create: documents
   match: "**/*"
   templates:
@@ -51,8 +51,8 @@ sections:
   path: exampleSite/content/english/contact/_index.md
   label: Contact (en)
 - type: document
-  path: exampleSite/content/french/contact/_index.md
-  label: Contact (fr)
+  path: exampleSite/content/spanish/contact/_index.md
+  label: Contact (es)
 - type: heading
   label: All Pages
 - type: directory
@@ -61,8 +61,8 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/content/french
-  label: All Page (fr)
+  path: exampleSite/content/spanish
+  label: All Page (es)
   create: all
   match: "**/*"
 - type: heading
