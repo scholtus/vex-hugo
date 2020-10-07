@@ -4,17 +4,17 @@ googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
 title = "Comprá dale comprá"
-[Languages.en]
-contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "en-us"
-languageName = "Inglés"
-weight = 1
 [Languages.es]
 contentDir = "content/spanish"
 copyright = ""
 languageCode = "es-ar"
 languageName = "Español"
+weight = 1
+[Languages.en]
+contentDir = "content/english"
+copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+languageCode = "en-us"
+languageName = "Inglés"
 weight = 2
 [[menu.footer]]
 URL = "blog"
