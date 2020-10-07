@@ -1,9 +1,9 @@
-baseurl = "http://demo.themefisher.com/vex-hugo/"
+baseurl = "https://tienda.scholtus.com.ar"
 disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "Comprá dale comprá"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
