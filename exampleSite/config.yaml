@@ -14,36 +14,35 @@ languages:
     weight: 1
 menu:
   footer:
-    URL: blog
+  - URL: blog
     name: Blog
     weight: 1
-    footer:
-    - URL: contact
-      name: Contact
-      weight: 2
-    - URL: terms-conditions
-      name: Terms & Conditions
-      weight: 3
-    - URL: privacy-policy
-      name: Privacy Policy
-      weight: 4
-    main:
-    - URL: /
-      name: Home
-      weight: 1
-    - URL: products
-      name: Products
-      weight: 2
-    - URL: blog
-      name: Blog
-      weight: 3
-    - URL: testimonial
-      name: Review
-      pre: '#'
-      weight: 4
-    - URL: contact
-      name: Contact
-      weight: 5
+  - URL: contact
+    name: Contact
+    weight: 2
+  - URL: terms-conditions
+    name: Terms & Conditions
+    weight: 3
+  - URL: privacy-policy
+    name: Privacy Policy
+    weight: 4
+  main:
+  - URL: /
+    name: Home
+    weight: 1
+  - URL: products
+    name: Products
+    weight: 2
+  - URL: blog
+    name: Blog
+    weight: 3
+  - URL: testimonial
+    name: Review
+    pre: '#'
+    weight: 4
+  - URL: contact
+    name: Contact
+    weight: 5
 params:
   author: Dani Scholtus
   contact_form_action: '#'
