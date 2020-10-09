@@ -6,7 +6,7 @@ summarylength: 20
 theme: vex-hugo
 title: Comprá dale comprá
 languages:
-  ar:
+  es:
     contentDir: content/spanish
     copyright:
     languageCode: es-ar
