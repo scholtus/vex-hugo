@@ -40,7 +40,7 @@ menu:
     - URL: testimonial
       name: Review
       pre: '#'
-    weight: 4
+      weight: 4
     - URL: contact
       name: Contact
       weight: 5
